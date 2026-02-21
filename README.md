@@ -31,3 +31,16 @@ npm install atau yarn install
 
 # Jalankan kode
 npm run dev atau yarn dev
+
+---
+
+## 🌐 Kontak & Link
+
+Jika Anda memiliki pertanyaan atau ingin melihat versi live dari project ini, silakan hubungi saya melalui:
+
+* **Email:** [nama-email@gmail.com](mailto:nama-email@gmail.com)
+* **Website:** [https://www.websitemu.com](https://www.websitemu.com)
+
+---
+
+
