@@ -31,6 +31,7 @@ npm install atau yarn install
 
 # Jalankan kode
 npm run dev atau yarn dev
+```
 
 ---
 
