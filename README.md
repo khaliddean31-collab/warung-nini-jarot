@@ -38,8 +38,8 @@ npm run dev atau yarn dev
 
 Jika Anda memiliki pertanyaan atau ingin melihat versi live dari project ini, silakan hubungi saya melalui:
 
-* **Email:** [nama-email@gmail.com](mailto:nama-email@gmail.com)
-* **Website:** [https://www.websitemu.com](https://www.websitemu.com)
+* **Email:** [khaliddean31@gmail.com](khaliddean31@gmail.com)
+* **Website:** [https://warungninijarot.vercel.app/](https://warungninijarot.vercel.app/)
 
 ---
 
